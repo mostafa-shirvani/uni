@@ -1,14 +1,8 @@
-//
-// Created by AsreRayane on 3/6/2025.
-//
+#include <iostream>
+using namespace std;
 
-#ifndef UNI2_HELLOWORLD_H
-#define UNI2_HELLOWORLD_H
+int main() {
+    cout << "Hello, World!" << endl;
 
-
-class helloWorld {
-
-};
-
-
-#endif //UNI2_HELLOWORLD_H
+    return 0;
+}
